@@ -10,14 +10,13 @@ The app is here: https://ranklord.shinyapps.io/cddp/
 
 Short presentation about the app is here: http://rpubs.com/drasulev/cddp
 
-Please, feel free to connect, follow and contact me:
 
-- [Facebook](https://www.facebook.com/denis.rasulev)
-- [LinkedIn](https://www.linkedin.com/in/denisrasulev)
-- [Twitter](https://twitter.com/drasulev)
+
+-
+
 
 Or signup for my **Data Science Weekly** newspaper [here](http://paper.li/drasulev/1452088171).
 
-© 2016 Denis Rasulev
+© 2020 Jonathan Sherretts
 
 All Rights Reserved.
