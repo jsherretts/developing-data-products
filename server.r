@@ -1,6 +1,7 @@
 #server.r
 df <- read.csv("data/data.csv", stringsAsFactors = FALSE)
 
+
 # load shiny package
 library(shiny)
 library(ggplot2)
